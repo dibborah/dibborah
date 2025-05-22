@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NodeJs, React Native**
 
-- 👨‍💻 All of my projects are available at [https://dibborah.fun/](https://dibborah.fun/)
+- 👨‍💻 All of my projects are available at [https://dibborah.github.io/dibborah-portfolio/](https://dibborah.github.io/dibborah-portfolio/)
 
 - 💬 Ask me about **react Js, Javascript, react native**
 
