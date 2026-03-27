@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **dibyajyotiborah469@gmail.com**
 
-- ⚡ Fun fact **AI is dump**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dib-borah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dib-borah/" height="30" width="40" /></a>
